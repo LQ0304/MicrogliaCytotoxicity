@@ -1,0 +1,12 @@
+joblib
+tensorboard
+tensorboardX
+tqdm
+xlwt
+xlrd==1.2.0
+scikit-learn==0.24.1
+matplotlib==2.2.2
+seaborn==0.9.1
+shap==0.40.0
+openpyxl==3.0.7
+hyperopt==0.2.5

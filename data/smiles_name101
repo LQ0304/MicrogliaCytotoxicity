@@ -1,0 +1,13 @@
+C=CC(C)(CC/C=C(\C)CC(=O)C=C(C)C)CC(=O)c1ccc(O)cc1O	compound-47	0
+C=CC(C)(CC/C=C(\C)CCC=C(C)C)CC(=O)c1ccc(O)cc1O	compound-49	0
+CC(C)=CCC/C(C)=C/CC/C(C)=C/CC(O)C(=O)c1ccc(O)cc1O	compound-68	0
+CC(C)=CCC/C(C)=C/CC/C(C)=C/CCC(=O)c1ccc(O)cc1O	compound-69	0
+COc1ccc(C(=O)C(O)C/C=C(\C)CC/C=C(\C)CCC=C(C)C)c(O)c1	compound-260	0
+CC(C)=CCC/C(C)=C/CC[C@@]1(C)c2c(c3ccc(O)cc3oc2=O)O[C@H]1C	compound-70	0
+CC(C)=CCC/C(C)=C/CC[C@@]1(C)Oc2c(c(=O)oc3cc(O)ccc23)[C@@H]1C	compound-71	0
+CC(C)=CCC/C(C)=C/CC[C@]1(C)c2c(c3ccc(O)cc3oc2=O)O[C@H]1C	compound-72	0
+C/C(=C\COc1ccc2ccc(=O)oc2c1)CC/C=C(\C)CCC(O)C(C)(C)O	compound-2	0
+C=CC(C)(CC/C=C(\C)Cc1cc(C)co1)CC(=O)c1ccc(O)cc1O	compound-48	0
+COc1ccc(C(=O)[C@H]2C(=O)O[C@@](C)(CC/C=C(\C)CCC=C(C)C)[C@@H]2C)c(O)c1	compound-259	1
+COc1ccc2c3c(c(=O)oc2c1)[C@H](C)[C@@](C)(CC/C=C(\C)CCC=C(C)C)O3	compound-303	0
+COc1ccc2c3c(c(=O)oc2c1)[C@@H](C)[C@@](C)(CC/C=C(\C)CCC=C(C)C)O3	compound-302	0
